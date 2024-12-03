@@ -1,0 +1,2502 @@
+[
+    {
+        "id": 535341,
+        "title": "Intouchables",
+        "rating": "8.8",
+        "year": 2011,
+        "budget": 4869046,
+        "gross": 4543920,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/535341.jpg",
+        "position": 1
+    },
+    {
+        "id": 258687,
+        "title": "Interstellar",
+        "rating": "8.6",
+        "year": 2014,
+        "budget": 4672904,
+        "gross": 1411283,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/258687.jpg",
+        "position": 2
+    },
+    {
+        "id": 326,
+        "title": "The Shawshank Redemption",
+        "rating": "9.1",
+        "year": 1994,
+        "budget": 1415588,
+        "gross": 9383021,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/326.jpg",
+        "position": 3
+    },
+    {
+        "id": 435,
+        "title": "The Green Mile",
+        "rating": "9.1",
+        "year": 1999,
+        "budget": 7570756,
+        "gross": 2325768,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/435.jpg",
+        "position": 4
+    },
+    {
+        "id": 397667,
+        "title": "Shutter Island",
+        "rating": "8.5",
+        "year": 2009,
+        "budget": 6025549,
+        "gross": 6198449,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/397667.jpg",
+        "position": 5
+    },
+    {
+        "id": 361,
+        "title": "Fight Club",
+        "rating": "8.7",
+        "year": 1999,
+        "budget": 9621990,
+        "gross": 8922885,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/361.jpg",
+        "position": 6
+    },
+    {
+        "id": 448,
+        "title": "Forrest Gump",
+        "rating": "8.9",
+        "year": 1994,
+        "budget": 1013344,
+        "gross": 6509284,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/448.jpg",
+        "position": 7
+    },
+    {
+        "id": 3498,
+        "title": "The Lord of the Rings: The Return of the King",
+        "rating": "8.7",
+        "year": 2003,
+        "budget": 7104094,
+        "gross": 8087608,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3498.jpg",
+        "position": 8
+    },
+    {
+        "id": 370,
+        "title": "Sen to Chihiro no kamikakushi",
+        "rating": "8.5",
+        "year": 2001,
+        "budget": 3491460,
+        "gross": 2952109,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/370.jpg",
+        "position": 9
+    },
+    {
+        "id": 328,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "rating": "8.6",
+        "year": 2001,
+        "budget": 3240777,
+        "gross": 9244034,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/328.jpg",
+        "position": 10
+    },
+    {
+        "id": 389,
+        "title": "Léon",
+        "rating": "8.7",
+        "year": 1994,
+        "budget": 6649981,
+        "gross": 5758162,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/389.jpg",
+        "position": 11
+    },
+    {
+        "id": 1143242,
+        "title": "The Gentlemen",
+        "rating": "8.6",
+        "year": 2019,
+        "budget": 6622985,
+        "gross": 3522391,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1143242.jpg",
+        "position": 12
+    },
+    {
+        "id": 444,
+        "title": "Terminator 2: Judgment Day",
+        "rating": "8.4",
+        "year": 1991,
+        "budget": 1334427,
+        "gross": 3083192,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/444.jpg",
+        "position": 13
+    },
+    {
+        "id": 312,
+        "title": "The Lord of the Rings: The Two Towers",
+        "rating": "8.6",
+        "year": 2002,
+        "budget": 525162,
+        "gross": 7785624,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/312.jpg",
+        "position": 14
+    },
+    {
+        "id": 447301,
+        "title": "Inception",
+        "rating": "8.7",
+        "year": 2010,
+        "budget": 2520757,
+        "gross": 7849522,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/447301.jpg",
+        "position": 15
+    },
+    {
+        "id": 32898,
+        "title": "Knockin' on Heaven's Door",
+        "rating": "8.6",
+        "year": 1997,
+        "budget": 5396486,
+        "gross": 2137394,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/32898.jpg",
+        "position": 16
+    },
+    {
+        "id": 1108577,
+        "title": "Green Book",
+        "rating": "8.5",
+        "year": 2018,
+        "budget": 5961154,
+        "gross": 9948490,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1108577.jpg",
+        "position": 17
+    },
+    {
+        "id": 342,
+        "title": "Pulp Fiction",
+        "rating": "8.7",
+        "year": 1994,
+        "budget": 1269555,
+        "gross": 6109360,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/342.jpg",
+        "position": 18
+    },
+    {
+        "id": 679486,
+        "title": "Coco",
+        "rating": "8.7",
+        "year": 2017,
+        "budget": 7460013,
+        "gross": 1142657,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/679486.jpg",
+        "position": 19
+    },
+    {
+        "id": 111543,
+        "title": "The Dark Knight",
+        "rating": "8.5",
+        "year": 2008,
+        "budget": 8729551,
+        "gross": 854987,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/111543.jpg",
+        "position": 20
+    },
+    {
+        "id": 474,
+        "title": "Gladiator",
+        "rating": "8.6",
+        "year": 2000,
+        "budget": 3169705,
+        "gross": 9824748,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/474.jpg",
+        "position": 21
+    },
+    {
+        "id": 329,
+        "title": "Schindler's List",
+        "rating": "8.8",
+        "year": 1993,
+        "budget": 4244034,
+        "gross": 8225223,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/329.jpg",
+        "position": 22
+    },
+    {
+        "id": 42664,
+        "title": "Иван Васильевич меняет профессию",
+        "rating": "8.8",
+        "year": 1973,
+        "budget": 194526,
+        "gross": 1771277,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/42664.jpg",
+        "position": 23
+    },
+    {
+        "id": 430,
+        "title": "Shrek",
+        "rating": "8.2",
+        "year": 2001,
+        "budget": 8151566,
+        "gross": 139408,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/430.jpg",
+        "position": 24
+    },
+    {
+        "id": 41519,
+        "title": "Брат",
+        "rating": "8.3",
+        "year": 1997,
+        "budget": 5730489,
+        "gross": 2886222,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41519.jpg",
+        "position": 25
+    },
+    {
+        "id": 41520,
+        "title": "Брат 2",
+        "rating": "8.2",
+        "year": 2000,
+        "budget": 4266743,
+        "gross": 5650324,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41520.jpg",
+        "position": 26
+    },
+    {
+        "id": 462682,
+        "title": "The Wolf of Wall Street",
+        "rating": "8.0",
+        "year": 2013,
+        "budget": 1236547,
+        "gross": 4717146,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/462682.jpg",
+        "position": 27
+    },
+    {
+        "id": 476,
+        "title": "Back to the Future",
+        "rating": "8.6",
+        "year": 1985,
+        "budget": 1867857,
+        "gross": 3711504,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/476.jpg",
+        "position": 28
+    },
+    {
+        "id": 77335,
+        "title": "Собачье сердце",
+        "rating": "8.4",
+        "year": 1988,
+        "budget": 5361756,
+        "gross": 6970735,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77335.jpg",
+        "position": 29
+    },
+    {
+        "id": 526,
+        "title": "Snatch",
+        "rating": "8.6",
+        "year": 2000,
+        "budget": 5078390,
+        "gross": 6269779,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/526.jpg",
+        "position": 30
+    },
+    {
+        "id": 456,
+        "title": "Gone with the Wind",
+        "rating": "8.4",
+        "year": 1939,
+        "budget": 4022616,
+        "gross": 3154079,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/456.jpg",
+        "position": 31
+    },
+    {
+        "id": 324,
+        "title": "Catch Me If You Can",
+        "rating": "8.5",
+        "year": 2002,
+        "budget": 1858823,
+        "gross": 4402757,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/324.jpg",
+        "position": 32
+    },
+    {
+        "id": 5457899,
+        "title": "The Wild Robot",
+        "rating": "8.4",
+        "year": 2024,
+        "budget": 9683908,
+        "gross": 2845780,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5457899.jpg",
+        "position": 33
+    },
+    {
+        "id": 387556,
+        "title": "Hachi: A Dog's Tale",
+        "rating": "8.4",
+        "year": 2008,
+        "budget": 9988417,
+        "gross": 324469,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/387556.jpg",
+        "position": 34
+    },
+    {
+        "id": 42782,
+        "title": "Операция «Ы» и другие приключения Шурика",
+        "rating": "8.7",
+        "year": 1965,
+        "budget": 1520023,
+        "gross": 5875405,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/42782.jpg",
+        "position": 35
+    },
+    {
+        "id": 689,
+        "title": "Harry Potter and the Sorcerer's Stone",
+        "rating": "8.3",
+        "year": 2001,
+        "budget": 4951247,
+        "gross": 4104520,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/689.jpg",
+        "position": 36
+    },
+    {
+        "id": 725190,
+        "title": "Whiplash",
+        "rating": "8.4",
+        "year": 2013,
+        "budget": 3181028,
+        "gross": 3068237,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/725190.jpg",
+        "position": 37
+    },
+    {
+        "id": 522,
+        "title": "Lock, Stock and Two Smoking Barrels",
+        "rating": "8.6",
+        "year": 1998,
+        "budget": 8145212,
+        "gross": 584469,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/522.jpg",
+        "position": 38
+    },
+    {
+        "id": 195334,
+        "title": "The Prestige",
+        "rating": "8.5",
+        "year": 2006,
+        "budget": 296863,
+        "gross": 4284475,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/195334.jpg",
+        "position": 39
+    },
+    {
+        "id": 44168,
+        "title": "Девчата",
+        "rating": "8.4",
+        "year": 1962,
+        "budget": 6289771,
+        "gross": 8412450,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/44168.jpg",
+        "position": 40
+    },
+    {
+        "id": 2213,
+        "title": "Titanic",
+        "rating": "8.4",
+        "year": 1997,
+        "budget": 2924325,
+        "gross": 1681,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/2213.jpg",
+        "position": 41
+    },
+    {
+        "id": 301,
+        "title": "The Matrix",
+        "rating": "8.5",
+        "year": 1999,
+        "budget": 5115358,
+        "gross": 7785265,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/301.jpg",
+        "position": 42
+    },
+    {
+        "id": 322,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "rating": "8.2",
+        "year": 2004,
+        "budget": 3169262,
+        "gross": 4801490,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/322.jpg",
+        "position": 43
+    },
+    {
+        "id": 4540126,
+        "title": "Dune: Part Two",
+        "rating": "8.2",
+        "year": 2024,
+        "budget": 646481,
+        "gross": 7200219,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4540126.jpg",
+        "position": 44
+    },
+    {
+        "id": 44386,
+        "title": "Джентльмены удачи",
+        "rating": "8.6",
+        "year": 1971,
+        "budget": 1014313,
+        "gross": 4627996,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/44386.jpg",
+        "position": 45
+    },
+    {
+        "id": 46225,
+        "title": "Бриллиантовая рука",
+        "rating": "8.5",
+        "year": 1968,
+        "budget": 143561,
+        "gross": 5153458,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46225.jpg",
+        "position": 46
+    },
+    {
+        "id": 355,
+        "title": "The Pianist",
+        "rating": "8.5",
+        "year": 2002,
+        "budget": 4395567,
+        "gross": 4008222,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/355.jpg",
+        "position": 47
+    },
+    {
+        "id": 81314,
+        "title": "The Departed",
+        "rating": "8.5",
+        "year": 2006,
+        "budget": 5884035,
+        "gross": 2348980,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81314.jpg",
+        "position": 48
+    },
+    {
+        "id": 63912,
+        "title": "Il bisbetico domato",
+        "rating": "8.4",
+        "year": 1980,
+        "budget": 3867997,
+        "gross": 5491641,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/63912.jpg",
+        "position": 49
+    },
+    {
+        "id": 81297,
+        "title": "Million Dollar Baby",
+        "rating": "8.1",
+        "year": 2004,
+        "budget": 6948075,
+        "gross": 6374510,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81297.jpg",
+        "position": 50
+    },
+    {
+        "id": 586397,
+        "title": "Django Unchained",
+        "rating": "8.2",
+        "year": 2012,
+        "budget": 3028953,
+        "gross": 3724170,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/586397.jpg",
+        "position": 51
+    },
+    {
+        "id": 848894,
+        "title": "En man som heter Ove",
+        "rating": "8.2",
+        "year": 2015,
+        "budget": 6663769,
+        "gross": 3441698,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/848894.jpg",
+        "position": 52
+    },
+    {
+        "id": 77263,
+        "title": "Приключения Шерлока Холмса и доктора Ватсона: Собака Баскервилей",
+        "rating": "8.6",
+        "year": 1981,
+        "budget": 1876452,
+        "gross": 5911834,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77263.jpg",
+        "position": 53
+    },
+    {
+        "id": 5105855,
+        "title": "One Life",
+        "rating": "8.5",
+        "year": 2023,
+        "budget": 1519462,
+        "gross": 8206483,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5105855.jpg",
+        "position": 54
+    },
+    {
+        "id": 5273,
+        "title": "Shrek 2",
+        "rating": "7.9",
+        "year": 2004,
+        "budget": 2494452,
+        "gross": 740857,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5273.jpg",
+        "position": 55
+    },
+    {
+        "id": 803422,
+        "title": "Pelé: Birth of a Legend",
+        "rating": "8.4",
+        "year": 2015,
+        "budget": 3723007,
+        "gross": 504582,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/803422.jpg",
+        "position": 56
+    },
+    {
+        "id": 406408,
+        "title": "Law Abiding Citizen",
+        "rating": "8.0",
+        "year": 2009,
+        "budget": 5772944,
+        "gross": 5615089,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/406408.jpg",
+        "position": 57
+    },
+    {
+        "id": 41381,
+        "title": "В августе 44-го",
+        "rating": "8.2",
+        "year": 2001,
+        "budget": 4793918,
+        "gross": 8153430,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41381.jpg",
+        "position": 58
+    },
+    {
+        "id": 4374,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "rating": "8.4",
+        "year": 2003,
+        "budget": 6244541,
+        "gross": 2513043,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4374.jpg",
+        "position": 59
+    },
+    {
+        "id": 9691,
+        "title": "Inglourious Basterds",
+        "rating": "8.0",
+        "year": 2009,
+        "budget": 8621146,
+        "gross": 9688081,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/9691.jpg",
+        "position": 60
+    },
+    {
+        "id": 377,
+        "title": "Se7en",
+        "rating": "8.3",
+        "year": 1995,
+        "budget": 2159093,
+        "gross": 989286,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/377.jpg",
+        "position": 61
+    },
+    {
+        "id": 3563,
+        "title": "Interstate 60",
+        "rating": "8.1",
+        "year": 2001,
+        "budget": 7438843,
+        "gross": 4021439,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3563.jpg",
+        "position": 62
+    },
+    {
+        "id": 81733,
+        "title": "Pride & Prejudice",
+        "rating": "8.1",
+        "year": 2005,
+        "budget": 8415972,
+        "gross": 7208921,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81733.jpg",
+        "position": 63
+    },
+    {
+        "id": 864138,
+        "title": "Lion",
+        "rating": "8.2",
+        "year": 2016,
+        "budget": 6234650,
+        "gross": 80530,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/864138.jpg",
+        "position": 64
+    },
+    {
+        "id": 160977,
+        "title": "Apocalypto",
+        "rating": "8.0",
+        "year": 2006,
+        "budget": 3072150,
+        "gross": 6962851,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/160977.jpg",
+        "position": 65
+    },
+    {
+        "id": 43395,
+        "title": "...А зори здесь тихие",
+        "rating": "8.6",
+        "year": 1972,
+        "budget": 1887169,
+        "gross": 8031316,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/43395.jpg",
+        "position": 66
+    },
+    {
+        "id": 77269,
+        "title": "Шерлок Холмс и доктор Ватсон: Знакомство",
+        "rating": "8.6",
+        "year": 1979,
+        "budget": 2982418,
+        "gross": 8904567,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77269.jpg",
+        "position": 67
+    },
+    {
+        "id": 325,
+        "title": "The Godfather",
+        "rating": "8.7",
+        "year": 1972,
+        "budget": 6191743,
+        "gross": 6707507,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/325.jpg",
+        "position": 68
+    },
+    {
+        "id": 44745,
+        "title": "Кавказская пленница, или Новые приключения Шурика",
+        "rating": "8.5",
+        "year": 1966,
+        "budget": 6873247,
+        "gross": 7581937,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/44745.jpg",
+        "position": 69
+    },
+    {
+        "id": 965754,
+        "title": "Only the Brave",
+        "rating": "8.2",
+        "year": 2017,
+        "budget": 6960160,
+        "gross": 2356398,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/965754.jpg",
+        "position": 70
+    },
+    {
+        "id": 2656,
+        "title": "The Fifth Element",
+        "rating": "8.1",
+        "year": 1997,
+        "budget": 6346669,
+        "gross": 2107754,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/2656.jpg",
+        "position": 71
+    },
+    {
+        "id": 4384109,
+        "title": "White Bird",
+        "rating": "8.4",
+        "year": 2023,
+        "budget": 72983,
+        "gross": 6797376,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4384109.jpg",
+        "position": 72
+    },
+    {
+        "id": 1043758,
+        "title": "Gisaengchung",
+        "rating": "8.0",
+        "year": 2019,
+        "budget": 1903208,
+        "gross": 3405365,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1043758.jpg",
+        "position": 73
+    },
+    {
+        "id": 86326,
+        "title": "Lucky Number Slevin",
+        "rating": "8.1",
+        "year": 2005,
+        "budget": 9348456,
+        "gross": 7590169,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/86326.jpg",
+        "position": 74
+    },
+    {
+        "id": 819101,
+        "title": "The Hateful Eight",
+        "rating": "8.0",
+        "year": 2015,
+        "budget": 311529,
+        "gross": 4814803,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/819101.jpg",
+        "position": 75
+    },
+    {
+        "id": 4541,
+        "title": "The Truman Show",
+        "rating": "8.3",
+        "year": 1998,
+        "budget": 998911,
+        "gross": 401449,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4541.jpg",
+        "position": 76
+    },
+    {
+        "id": 1188529,
+        "title": "Knives Out",
+        "rating": "8.1",
+        "year": 2019,
+        "budget": 2766527,
+        "gross": 5406796,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1188529.jpg",
+        "position": 77
+    },
+    {
+        "id": 462606,
+        "title": "Limitless",
+        "rating": "8.0",
+        "year": 2011,
+        "budget": 7401028,
+        "gross": 6045655,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/462606.jpg",
+        "position": 78
+    },
+    {
+        "id": 42571,
+        "title": "Иди и смотри",
+        "rating": "8.3",
+        "year": 1985,
+        "budget": 571165,
+        "gross": 1905074,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/42571.jpg",
+        "position": 79
+    },
+    {
+        "id": 367,
+        "title": "Requiem for a Dream",
+        "rating": "8.0",
+        "year": 2000,
+        "budget": 7654798,
+        "gross": 4547721,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/367.jpg",
+        "position": 80
+    },
+    {
+        "id": 723,
+        "title": "K-PAX",
+        "rating": "8.1",
+        "year": 2001,
+        "budget": 2398377,
+        "gross": 3617482,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/723.jpg",
+        "position": 81
+    },
+    {
+        "id": 681849,
+        "title": "La migliore offerta",
+        "rating": "8.0",
+        "year": 2012,
+        "budget": 6636839,
+        "gross": 8931841,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/681849.jpg",
+        "position": 82
+    },
+    {
+        "id": 645276,
+        "title": "The Physician",
+        "rating": "8.0",
+        "year": 2013,
+        "budget": 6265736,
+        "gross": 2813571,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/645276.jpg",
+        "position": 83
+    },
+    {
+        "id": 407636,
+        "title": "Harry Potter and the Deathly Hallows - Part 2",
+        "rating": "8.2",
+        "year": 2011,
+        "budget": 9073252,
+        "gross": 4281344,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/407636.jpg",
+        "position": 84
+    },
+    {
+        "id": 1091,
+        "title": "Men in Black",
+        "rating": "8.0",
+        "year": 1997,
+        "budget": 6437131,
+        "gross": 510729,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1091.jpg",
+        "position": 85
+    },
+    {
+        "id": 530,
+        "title": "A Beautiful Mind",
+        "rating": "8.5",
+        "year": 2001,
+        "budget": 6985894,
+        "gross": 3475838,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/530.jpg",
+        "position": 86
+    },
+    {
+        "id": 1228407,
+        "title": "Крик тишины",
+        "rating": "8.5",
+        "year": 2019,
+        "budget": 7836384,
+        "gross": 623253,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1228407.jpg",
+        "position": 87
+    },
+    {
+        "id": 8124,
+        "title": "Home Alone",
+        "rating": "8.3",
+        "year": 1990,
+        "budget": 7774461,
+        "gross": 8027997,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8124.jpg",
+        "position": 88
+    },
+    {
+        "id": 1000443,
+        "title": "Балканский рубеж",
+        "rating": "8.0",
+        "year": 2019,
+        "budget": 9210498,
+        "gross": 6012954,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1000443.jpg",
+        "position": 89
+    },
+    {
+        "id": 3442,
+        "title": "Troy",
+        "rating": "8.1",
+        "year": 2004,
+        "budget": 7759914,
+        "gross": 6263118,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3442.jpg",
+        "position": 90
+    },
+    {
+        "id": 441,
+        "title": "Mononoke-hime",
+        "rating": "8.2",
+        "year": 1997,
+        "budget": 5967731,
+        "gross": 3818034,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/441.jpg",
+        "position": 91
+    },
+    {
+        "id": 688,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "rating": "8.1",
+        "year": 2002,
+        "budget": 8979579,
+        "gross": 9905119,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/688.jpg",
+        "position": 92
+    },
+    {
+        "id": 81041,
+        "title": "Алеша Попович и Тугарин Змей",
+        "rating": "7.9",
+        "year": 2004,
+        "budget": 2368666,
+        "gross": 7087499,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81041.jpg",
+        "position": 93
+    },
+    {
+        "id": 1032308,
+        "title": "L'école buissonnière",
+        "rating": "8.3",
+        "year": 2017,
+        "budget": 31011,
+        "gross": 7584268,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1032308.jpg",
+        "position": 94
+    },
+    {
+        "id": 738,
+        "title": "The Life of David Gale",
+        "rating": "8.1",
+        "year": 2002,
+        "budget": 4359731,
+        "gross": 512150,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/738.jpg",
+        "position": 95
+    },
+    {
+        "id": 425400,
+        "title": "Incendies",
+        "rating": "8.0",
+        "year": 2010,
+        "budget": 5829668,
+        "gross": 627066,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/425400.jpg",
+        "position": 96
+    },
+    {
+        "id": 958519,
+        "title": "Hotel Mumbai",
+        "rating": "8.0",
+        "year": 2018,
+        "budget": 146835,
+        "gross": 763372,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/958519.jpg",
+        "position": 97
+    },
+    {
+        "id": 606646,
+        "title": "12 Years a Slave",
+        "rating": "7.9",
+        "year": 2013,
+        "budget": 2190915,
+        "gross": 6337842,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/606646.jpg",
+        "position": 98
+    },
+    {
+        "id": 808639,
+        "title": "Дурак",
+        "rating": "8.1",
+        "year": 2014,
+        "budget": 5095036,
+        "gross": 6758900,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/808639.jpg",
+        "position": 99
+    },
+    {
+        "id": 1402937,
+        "title": "Arthur the King",
+        "rating": "8.3",
+        "year": 2024,
+        "budget": 9117425,
+        "gross": 2687293,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1402937.jpg",
+        "position": 100
+    },
+    {
+        "id": 345,
+        "title": "The Silence of the Lambs",
+        "rating": "8.3",
+        "year": 1990,
+        "budget": 7216681,
+        "gross": 910102,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/345.jpg",
+        "position": 101
+    },
+    {
+        "id": 841081,
+        "title": "La La Land",
+        "rating": "8.0",
+        "year": 2016,
+        "budget": 9652210,
+        "gross": 3463374,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/841081.jpg",
+        "position": 102
+    },
+    {
+        "id": 453406,
+        "title": "Mad Max: Fury Road",
+        "rating": "7.8",
+        "year": 2015,
+        "budget": 1906817,
+        "gross": 4343678,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/453406.jpg",
+        "position": 103
+    },
+    {
+        "id": 3797,
+        "title": "The Devil's Advocate",
+        "rating": "8.2",
+        "year": 1997,
+        "budget": 23776,
+        "gross": 3802930,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3797.jpg",
+        "position": 104
+    },
+    {
+        "id": 327,
+        "title": "The Godfather: Part II",
+        "rating": "8.5",
+        "year": 1974,
+        "budget": 6055864,
+        "gross": 7242724,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/327.jpg",
+        "position": 105
+    },
+    {
+        "id": 649917,
+        "title": "Hacksaw Ridge",
+        "rating": "8.2",
+        "year": 2016,
+        "budget": 331514,
+        "gross": 1787906,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/649917.jpg",
+        "position": 106
+    },
+    {
+        "id": 42770,
+        "title": "Они сражались за Родину",
+        "rating": "8.5",
+        "year": 1975,
+        "budget": 5009038,
+        "gross": 2133180,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/42770.jpg",
+        "position": 107
+    },
+    {
+        "id": 46789,
+        "title": "12 стульев",
+        "rating": "8.3",
+        "year": 1971,
+        "budget": 8591909,
+        "gross": 8009207,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46789.jpg",
+        "position": 108
+    },
+    {
+        "id": 14349,
+        "title": "Taxi",
+        "rating": "8.0",
+        "year": 1998,
+        "budget": 3578260,
+        "gross": 16898,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/14349.jpg",
+        "position": 109
+    },
+    {
+        "id": 722951,
+        "title": "Wonder",
+        "rating": "8.2",
+        "year": 2017,
+        "budget": 8373206,
+        "gross": 8337557,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/722951.jpg",
+        "position": 110
+    },
+    {
+        "id": 260162,
+        "title": "Dallas Buyers Club",
+        "rating": "7.9",
+        "year": 2013,
+        "budget": 5718813,
+        "gross": 2459990,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/260162.jpg",
+        "position": 111
+    },
+    {
+        "id": 7226,
+        "title": "Dogville",
+        "rating": "8.0",
+        "year": 2003,
+        "budget": 761507,
+        "gross": 4718311,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7226.jpg",
+        "position": 112
+    },
+    {
+        "id": 346,
+        "title": "12 Angry Men",
+        "rating": "8.5",
+        "year": 1956,
+        "budget": 2152214,
+        "gross": 7929844,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/346.jpg",
+        "position": 113
+    },
+    {
+        "id": 485311,
+        "title": "The King's Speech",
+        "rating": "8.0",
+        "year": 2010,
+        "budget": 7376815,
+        "gross": 9703491,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/485311.jpg",
+        "position": 114
+    },
+    {
+        "id": 255611,
+        "title": "Atonement",
+        "rating": "8.0",
+        "year": 2007,
+        "budget": 3684035,
+        "gross": 544126,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/255611.jpg",
+        "position": 115
+    },
+    {
+        "id": 1421591,
+        "title": "Небо",
+        "rating": "8.2",
+        "year": 2021,
+        "budget": 5022284,
+        "gross": 9629377,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1421591.jpg",
+        "position": 116
+    },
+    {
+        "id": 3707,
+        "title": "The Passion of the Christ",
+        "rating": "7.9",
+        "year": 2004,
+        "budget": 4753202,
+        "gross": 1798226,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3707.jpg",
+        "position": 117
+    },
+    {
+        "id": 386,
+        "title": "Alien",
+        "rating": "8.1",
+        "year": 1979,
+        "budget": 2384939,
+        "gross": 4514284,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/386.jpg",
+        "position": 118
+    },
+    {
+        "id": 251733,
+        "title": "Avatar",
+        "rating": "8.0",
+        "year": 2009,
+        "budget": 4040856,
+        "gross": 2575428,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/251733.jpg",
+        "position": 119
+    },
+    {
+        "id": 610,
+        "title": "Billy Elliot",
+        "rating": "8.0",
+        "year": 2000,
+        "budget": 9231685,
+        "gross": 895636,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/610.jpg",
+        "position": 120
+    },
+    {
+        "id": 44811,
+        "title": "Кин-дза-дза!",
+        "rating": "8.1",
+        "year": 1986,
+        "budget": 4969376,
+        "gross": 2026160,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/44811.jpg",
+        "position": 121
+    },
+    {
+        "id": 8408,
+        "title": "Harry Potter and the Goblet of Fire",
+        "rating": "8.0",
+        "year": 2005,
+        "budget": 2560997,
+        "gross": 5416789,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8408.jpg",
+        "position": 122
+    },
+    {
+        "id": 341,
+        "title": "Le Fabuleux destin d'Amélie Poulain",
+        "rating": "8.0",
+        "year": 2001,
+        "budget": 2330902,
+        "gross": 24267,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/341.jpg",
+        "position": 123
+    },
+    {
+        "id": 933307,
+        "title": "Miss Sloane",
+        "rating": "8.0",
+        "year": 2016,
+        "budget": 613295,
+        "gross": 3734733,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/933307.jpg",
+        "position": 124
+    },
+    {
+        "id": 1103852,
+        "title": "Sayonara no asa ni yakusoku no hana o kazaro",
+        "rating": "8.3",
+        "year": 2018,
+        "budget": 7577090,
+        "gross": 8470590,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1103852.jpg",
+        "position": 125
+    },
+    {
+        "id": 104927,
+        "title": "The Holiday",
+        "rating": "7.9",
+        "year": 2006,
+        "budget": 6411515,
+        "gross": 9290492,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/104927.jpg",
+        "position": 126
+    },
+    {
+        "id": 41431,
+        "title": "Война",
+        "rating": "8.1",
+        "year": 2002,
+        "budget": 8885429,
+        "gross": 961282,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41431.jpg",
+        "position": 127
+    },
+    {
+        "id": 518037,
+        "title": "Lo imposible",
+        "rating": "8.0",
+        "year": 2012,
+        "budget": 1656081,
+        "gross": 6803438,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/518037.jpg",
+        "position": 128
+    },
+    {
+        "id": 41442,
+        "title": "Ворошиловский стрелок",
+        "rating": "7.9",
+        "year": 1999,
+        "budget": 2873921,
+        "gross": 6140984,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/41442.jpg",
+        "position": 129
+    },
+    {
+        "id": 7660,
+        "title": "Холодное лето пятьдесят третьего...",
+        "rating": "8.2",
+        "year": 1987,
+        "budget": 1894,
+        "gross": 8477417,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7660.jpg",
+        "position": 130
+    },
+    {
+        "id": 4395219,
+        "title": "Zhong quan ba gong",
+        "rating": "8.5",
+        "year": 2023,
+        "budget": 6363562,
+        "gross": 8460754,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4395219.jpg",
+        "position": 131
+    },
+    {
+        "id": 63991,
+        "title": "Pirates of the Caribbean: Dead Man's Chest",
+        "rating": "8.1",
+        "year": 2006,
+        "budget": 4677329,
+        "gross": 1371873,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/63991.jpg",
+        "position": 132
+    },
+    {
+        "id": 350,
+        "title": "Goodfellas",
+        "rating": "8.1",
+        "year": 1990,
+        "budget": 2735275,
+        "gross": 6735349,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/350.jpg",
+        "position": 133
+    },
+    {
+        "id": 75871,
+        "title": "Oldeuboi",
+        "rating": "8.1",
+        "year": 2003,
+        "budget": 5149517,
+        "gross": 5293349,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/75871.jpg",
+        "position": 134
+    },
+    {
+        "id": 43423,
+        "title": "Афоня",
+        "rating": "8.1",
+        "year": 1975,
+        "budget": 7286193,
+        "gross": 3861010,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/43423.jpg",
+        "position": 135
+    },
+    {
+        "id": 81555,
+        "title": "The Curious Case of Benjamin Button",
+        "rating": "8.1",
+        "year": 2008,
+        "budget": 2954840,
+        "gross": 8429801,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81555.jpg",
+        "position": 136
+    },
+    {
+        "id": 46066,
+        "title": "Белое солнце пустыни",
+        "rating": "8.1",
+        "year": 1969,
+        "budget": 2425831,
+        "gross": 2238509,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46066.jpg",
+        "position": 137
+    },
+    {
+        "id": 5502,
+        "title": "Back to the Future Part II",
+        "rating": "8.3",
+        "year": 1989,
+        "budget": 1521622,
+        "gross": 151170,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5502.jpg",
+        "position": 138
+    },
+    {
+        "id": 5452393,
+        "title": "Le Comte de Monte-Cristo",
+        "rating": "8.1",
+        "year": 2024,
+        "budget": 4527285,
+        "gross": 9192121,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5452393.jpg",
+        "position": 139
+    },
+    {
+        "id": 1048334,
+        "title": "Joker",
+        "rating": "8.0",
+        "year": 2019,
+        "budget": 239167,
+        "gross": 2365617,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1048334.jpg",
+        "position": 140
+    },
+    {
+        "id": 436263,
+        "title": "Брестская крепость",
+        "rating": "8.1",
+        "year": 2010,
+        "budget": 9578298,
+        "gross": 8643455,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/436263.jpg",
+        "position": 141
+    },
+    {
+        "id": 601564,
+        "title": "Легенда №17",
+        "rating": "8.0",
+        "year": 2012,
+        "budget": 5441441,
+        "gross": 1545585,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/601564.jpg",
+        "position": 142
+    },
+    {
+        "id": 1108571,
+        "title": "Rémi sans famille",
+        "rating": "8.3",
+        "year": 2018,
+        "budget": 3579740,
+        "gross": 4650363,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1108571.jpg",
+        "position": 143
+    },
+    {
+        "id": 692861,
+        "title": "Gone Girl",
+        "rating": "8.0",
+        "year": 2014,
+        "budget": 2855214,
+        "gross": 3481405,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/692861.jpg",
+        "position": 144
+    },
+    {
+        "id": 1008113,
+        "title": "Taeksi unjeonsa",
+        "rating": "8.2",
+        "year": 2017,
+        "budget": 608207,
+        "gross": 5016662,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1008113.jpg",
+        "position": 145
+    },
+    {
+        "id": 46638,
+        "title": "Мимино",
+        "rating": "8.2",
+        "year": 1977,
+        "budget": 1202209,
+        "gross": 6345864,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46638.jpg",
+        "position": 146
+    },
+    {
+        "id": 843649,
+        "title": "Avengers: Infinity War",
+        "rating": "8.1",
+        "year": 2018,
+        "budget": 1746546,
+        "gross": 5146054,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/843649.jpg",
+        "position": 147
+    },
+    {
+        "id": 126196,
+        "title": "Das Leben der Anderen",
+        "rating": "8.1",
+        "year": 2006,
+        "budget": 9018656,
+        "gross": 960291,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/126196.jpg",
+        "position": 148
+    },
+    {
+        "id": 1191022,
+        "title": "Подольские курсанты",
+        "rating": "8.2",
+        "year": 2020,
+        "budget": 4833205,
+        "gross": 4639365,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1191022.jpg",
+        "position": 149
+    },
+    {
+        "id": 522876,
+        "title": "The Age of Adaline",
+        "rating": "7.8",
+        "year": 2015,
+        "budget": 3184694,
+        "gross": 6008202,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/522876.jpg",
+        "position": 150
+    },
+    {
+        "id": 958722,
+        "title": "Kimi no na wa.",
+        "rating": "8.4",
+        "year": 2016,
+        "budget": 9980731,
+        "gross": 3599952,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/958722.jpg",
+        "position": 151
+    },
+    {
+        "id": 647671,
+        "title": "Jagten",
+        "rating": "7.9",
+        "year": 2012,
+        "budget": 8640963,
+        "gross": 5803145,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/647671.jpg",
+        "position": 152
+    },
+    {
+        "id": 5619,
+        "title": "Star Wars: Episode III - Revenge of the Sith",
+        "rating": "8.1",
+        "year": 2005,
+        "budget": 9047777,
+        "gross": 2982523,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5619.jpg",
+        "position": 153
+    },
+    {
+        "id": 3561,
+        "title": "The Notebook",
+        "rating": "8.3",
+        "year": 2004,
+        "budget": 22943,
+        "gross": 3803086,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3561.jpg",
+        "position": 154
+    },
+    {
+        "id": 354,
+        "title": "Apocalypse Now",
+        "rating": "8.1",
+        "year": 1979,
+        "budget": 2117860,
+        "gross": 9451285,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/354.jpg",
+        "position": 155
+    },
+    {
+        "id": 102198,
+        "title": "The Illusionist",
+        "rating": "8.0",
+        "year": 2005,
+        "budget": 9532666,
+        "gross": 196304,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/102198.jpg",
+        "position": 156
+    },
+    {
+        "id": 5492,
+        "title": "Eternal Sunshine of the Spotless Mind",
+        "rating": "8.0",
+        "year": 2004,
+        "budget": 2738784,
+        "gross": 1947256,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5492.jpg",
+        "position": 157
+    },
+    {
+        "id": 45660,
+        "title": "Вам и не снилось...",
+        "rating": "8.3",
+        "year": 1980,
+        "budget": 5336861,
+        "gross": 5333575,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45660.jpg",
+        "position": 158
+    },
+    {
+        "id": 666,
+        "title": "The Fast and the Furious",
+        "rating": "7.8",
+        "year": 2001,
+        "budget": 7171561,
+        "gross": 7188003,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/666.jpg",
+        "position": 159
+    },
+    {
+        "id": 906042,
+        "title": "Paddington 2",
+        "rating": "8.1",
+        "year": 2017,
+        "budget": 441892,
+        "gross": 3183253,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/906042.jpg",
+        "position": 160
+    },
+    {
+        "id": 2717,
+        "title": "Kill Bill: Vol. 1",
+        "rating": "7.7",
+        "year": 2003,
+        "budget": 7903197,
+        "gross": 7997861,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/2717.jpg",
+        "position": 161
+    },
+    {
+        "id": 1219177,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "rating": "8.4",
+        "year": 2023,
+        "budget": 1939276,
+        "gross": 3023222,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1219177.jpg",
+        "position": 162
+    },
+    {
+        "id": 939411,
+        "title": "Papillon",
+        "rating": "7.8",
+        "year": 2017,
+        "budget": 599532,
+        "gross": 4354524,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/939411.jpg",
+        "position": 163
+    },
+    {
+        "id": 7466,
+        "title": "A Bronx Tale",
+        "rating": "8.1",
+        "year": 1993,
+        "budget": 3153132,
+        "gross": 8677232,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7466.jpg",
+        "position": 164
+    },
+    {
+        "id": 43602,
+        "title": "Самая обаятельная и привлекательная",
+        "rating": "8.2",
+        "year": 1985,
+        "budget": 1748044,
+        "gross": 1964057,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/43602.jpg",
+        "position": 165
+    },
+    {
+        "id": 2494,
+        "title": "Casino",
+        "rating": "8.1",
+        "year": 1995,
+        "budget": 8569572,
+        "gross": 7139343,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/2494.jpg",
+        "position": 166
+    },
+    {
+        "id": 589290,
+        "title": "Blade Runner 2049",
+        "rating": "7.8",
+        "year": 2017,
+        "budget": 5074885,
+        "gross": 499643,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/589290.jpg",
+        "position": 167
+    },
+    {
+        "id": 382,
+        "title": "American History X",
+        "rating": "8.3",
+        "year": 1998,
+        "budget": 6793195,
+        "gross": 3370439,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/382.jpg",
+        "position": 168
+    },
+    {
+        "id": 645118,
+        "title": "Inside Out",
+        "rating": "8.1",
+        "year": 2015,
+        "budget": 3309712,
+        "gross": 1717871,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/645118.jpg",
+        "position": 169
+    },
+    {
+        "id": 437410,
+        "title": "The Dark Knight Rises",
+        "rating": "8.2",
+        "year": 2012,
+        "budget": 2779279,
+        "gross": 8107173,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/437410.jpg",
+        "position": 170
+    },
+    {
+        "id": 81512,
+        "title": "The World's Fastest Indian",
+        "rating": "8.1",
+        "year": 2005,
+        "budget": 698730,
+        "gross": 4853705,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/81512.jpg",
+        "position": 171
+    },
+    {
+        "id": 12198,
+        "title": "The Game",
+        "rating": "8.3",
+        "year": 1997,
+        "budget": 9263486,
+        "gross": 3620273,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/12198.jpg",
+        "position": 172
+    },
+    {
+        "id": 406,
+        "title": "Aliens",
+        "rating": "8.1",
+        "year": 1986,
+        "budget": 9042598,
+        "gross": 8047701,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/406.jpg",
+        "position": 173
+    },
+    {
+        "id": 4996,
+        "title": "Dead Poets Society",
+        "rating": "8.2",
+        "year": 1989,
+        "budget": 6324493,
+        "gross": 1811452,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4996.jpg",
+        "position": 174
+    },
+    {
+        "id": 6144,
+        "title": "Love Actually",
+        "rating": "7.9",
+        "year": 2003,
+        "budget": 8632147,
+        "gross": 1419153,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6144.jpg",
+        "position": 175
+    },
+    {
+        "id": 959606,
+        "title": "Werk ohne Autor",
+        "rating": "8.1",
+        "year": 2018,
+        "budget": 810214,
+        "gross": 5864811,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/959606.jpg",
+        "position": 176
+    },
+    {
+        "id": 1134493,
+        "title": "Sound of Freedom",
+        "rating": "8.1",
+        "year": 2023,
+        "budget": 4368035,
+        "gross": 3090990,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/1134493.jpg",
+        "position": 177
+    },
+    {
+        "id": 596125,
+        "title": "Rush",
+        "rating": "8.1",
+        "year": 2013,
+        "budget": 6789047,
+        "gross": 3808134,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/596125.jpg",
+        "position": 178
+    },
+    {
+        "id": 627,
+        "title": "Cast Away",
+        "rating": "8.3",
+        "year": 2000,
+        "budget": 3973412,
+        "gross": 1944309,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/627.jpg",
+        "position": 179
+    },
+    {
+        "id": 351,
+        "title": "American Beauty",
+        "rating": "8.0",
+        "year": 1999,
+        "budget": 7383136,
+        "gross": 4547362,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/351.jpg",
+        "position": 180
+    },
+    {
+        "id": 45028,
+        "title": "Курьер",
+        "rating": "8.0",
+        "year": 1986,
+        "budget": 9551220,
+        "gross": 3525259,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45028.jpg",
+        "position": 181
+    },
+    {
+        "id": 5167,
+        "title": "The Butterfly Effect",
+        "rating": "8.2",
+        "year": 2003,
+        "budget": 3224493,
+        "gross": 480293,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5167.jpg",
+        "position": 182
+    },
+    {
+        "id": 195434,
+        "title": "No Country for Old Men",
+        "rating": "7.8",
+        "year": 2007,
+        "budget": 8955195,
+        "gross": 9228621,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/195434.jpg",
+        "position": 183
+    },
+    {
+        "id": 46368,
+        "title": "Не может быть!",
+        "rating": "8.2",
+        "year": 1975,
+        "budget": 451424,
+        "gross": 675718,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/46368.jpg",
+        "position": 184
+    },
+    {
+        "id": 309408,
+        "title": "День выборов",
+        "rating": "7.9",
+        "year": 2007,
+        "budget": 1563093,
+        "gross": 1998981,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/309408.jpg",
+        "position": 185
+    },
+    {
+        "id": 7653,
+        "title": "Особенности национальной охоты",
+        "rating": "7.8",
+        "year": 1995,
+        "budget": 1444305,
+        "gross": 9463721,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7653.jpg",
+        "position": 186
+    },
+    {
+        "id": 77283,
+        "title": "Тот самый Мюнхгаузен",
+        "rating": "8.3",
+        "year": 1979,
+        "budget": 5560257,
+        "gross": 5582015,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77283.jpg",
+        "position": 187
+    },
+    {
+        "id": 635772,
+        "title": "The Imitation Game",
+        "rating": "7.7",
+        "year": 2014,
+        "budget": 6847613,
+        "gross": 6300442,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/635772.jpg",
+        "position": 188
+    },
+    {
+        "id": 278522,
+        "title": "The Hobbit: An Unexpected Journey",
+        "rating": "8.1",
+        "year": 2012,
+        "budget": 8210855,
+        "gross": 5650163,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/278522.jpg",
+        "position": 189
+    },
+    {
+        "id": 843650,
+        "title": "Avengers: Endgame",
+        "rating": "7.9",
+        "year": 2019,
+        "budget": 3218027,
+        "gross": 7530148,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/843650.jpg",
+        "position": 190
+    },
+    {
+        "id": 61237,
+        "title": "Iron Man",
+        "rating": "8.0",
+        "year": 2008,
+        "budget": 3717905,
+        "gross": 5016698,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/61237.jpg",
+        "position": 191
+    },
+    {
+        "id": 455194,
+        "title": "Prisoners",
+        "rating": "7.8",
+        "year": 2013,
+        "budget": 397423,
+        "gross": 1141737,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/455194.jpg",
+        "position": 192
+    },
+    {
+        "id": 89515,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "rating": "7.8",
+        "year": 2009,
+        "budget": 4825435,
+        "gross": 9977813,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/89515.jpg",
+        "position": 193
+    },
+    {
+        "id": 104938,
+        "title": "The Pursuit of Happyness",
+        "rating": "8.3",
+        "year": 2006,
+        "budget": 1018837,
+        "gross": 6671833,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/104938.jpg",
+        "position": 194
+    },
+    {
+        "id": 394,
+        "title": "Reservoir Dogs",
+        "rating": "8.1",
+        "year": 1991,
+        "budget": 9145577,
+        "gross": 6948511,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/394.jpg",
+        "position": 195
+    },
+    {
+        "id": 45314,
+        "title": "Жестокий романс",
+        "rating": "8.2",
+        "year": 1984,
+        "budget": 1617576,
+        "gross": 8542943,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45314.jpg",
+        "position": 196
+    },
+    {
+        "id": 468102,
+        "title": "О чём говорят мужчины",
+        "rating": "7.8",
+        "year": 2010,
+        "budget": 2117739,
+        "gross": 7067529,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/468102.jpg",
+        "position": 197
+    },
+    {
+        "id": 944098,
+        "title": "Three Billboards Outside Ebbing, Missouri",
+        "rating": "8.1",
+        "year": 2017,
+        "budget": 303732,
+        "gross": 5248106,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/944098.jpg",
+        "position": 198
+    },
+    {
+        "id": 4664634,
+        "title": "Oppenheimer",
+        "rating": "8.1",
+        "year": 2023,
+        "budget": 8785495,
+        "gross": 9760660,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4664634.jpg",
+        "position": 199
+    },
+    {
+        "id": 976636,
+        "title": "Molly's Game",
+        "rating": "7.8",
+        "year": 2017,
+        "budget": 1794520,
+        "gross": 7865274,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/976636.jpg",
+        "position": 200
+    },
+    {
+        "id": 485261,
+        "title": "Tucker and Dale vs Evil",
+        "rating": "7.7",
+        "year": 2010,
+        "budget": 6563862,
+        "gross": 3247083,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/485261.jpg",
+        "position": 201
+    },
+    {
+        "id": 45822,
+        "title": "Вокзал для двоих",
+        "rating": "8.1",
+        "year": 1982,
+        "budget": 9454058,
+        "gross": 6075498,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45822.jpg",
+        "position": 202
+    },
+    {
+        "id": 281251,
+        "title": "The Boy in the Striped Pajamas",
+        "rating": "8.2",
+        "year": 2008,
+        "budget": 2061655,
+        "gross": 7135309,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/281251.jpg",
+        "position": 203
+    },
+    {
+        "id": 495518,
+        "title": "One Day",
+        "rating": "7.8",
+        "year": 2011,
+        "budget": 9235784,
+        "gross": 3648065,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/495518.jpg",
+        "position": 204
+    },
+    {
+        "id": 494,
+        "title": "The Others",
+        "rating": "7.9",
+        "year": 2001,
+        "budget": 7872617,
+        "gross": 6367138,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/494.jpg",
+        "position": 205
+    },
+    {
+        "id": 683999,
+        "title": "The Grand Budapest Hotel",
+        "rating": "7.9",
+        "year": 2014,
+        "budget": 9236153,
+        "gross": 1436390,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/683999.jpg",
+        "position": 206
+    },
+    {
+        "id": 336,
+        "title": "One Flew Over the Cuckoo's Nest",
+        "rating": "8.5",
+        "year": 1975,
+        "budget": 619482,
+        "gross": 5540343,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/336.jpg",
+        "position": 207
+    },
+    {
+        "id": 252641,
+        "title": "Watchmen",
+        "rating": "7.7",
+        "year": 2009,
+        "budget": 2759012,
+        "gross": 657265,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/252641.jpg",
+        "position": 208
+    },
+    {
+        "id": 222809,
+        "title": "12",
+        "rating": "7.7",
+        "year": 2007,
+        "budget": 8195877,
+        "gross": 461959,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/222809.jpg",
+        "position": 209
+    },
+    {
+        "id": 838,
+        "title": "Spider-Man",
+        "rating": "7.7",
+        "year": 2002,
+        "budget": 1199928,
+        "gross": 2320229,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/838.jpg",
+        "position": 210
+    },
+    {
+        "id": 102124,
+        "title": "Pirates of the Caribbean: At World's End",
+        "rating": "8.1",
+        "year": 2007,
+        "budget": 2382446,
+        "gross": 1274284,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/102124.jpg",
+        "position": 211
+    },
+    {
+        "id": 7640,
+        "title": "Bicentennial Man",
+        "rating": "8.1",
+        "year": 1999,
+        "budget": 5552926,
+        "gross": 8558210,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7640.jpg",
+        "position": 212
+    },
+    {
+        "id": 507,
+        "title": "The Terminator",
+        "rating": "8.0",
+        "year": 1984,
+        "budget": 4364964,
+        "gross": 6740057,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/507.jpg",
+        "position": 213
+    },
+    {
+        "id": 4695,
+        "title": "Scarface",
+        "rating": "8.2",
+        "year": 1983,
+        "budget": 635421,
+        "gross": 328390,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4695.jpg",
+        "position": 214
+    },
+    {
+        "id": 354799,
+        "title": "Шерлок Холмс и доктор Ватсон: Смертельная схватка",
+        "rating": "8.4",
+        "year": 1980,
+        "budget": 3314962,
+        "gross": 977522,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/354799.jpg",
+        "position": 215
+    },
+    {
+        "id": 77203,
+        "title": "Покровские ворота",
+        "rating": "8.3",
+        "year": 1982,
+        "budget": 769010,
+        "gross": 4949610,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/77203.jpg",
+        "position": 216
+    },
+    {
+        "id": 470553,
+        "title": "The Help",
+        "rating": "8.2",
+        "year": 2011,
+        "budget": 4123556,
+        "gross": 4560304,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/470553.jpg",
+        "position": 217
+    },
+    {
+        "id": 885317,
+        "title": "Bakemono no ko",
+        "rating": "8.2",
+        "year": 2015,
+        "budget": 5235216,
+        "gross": 2974664,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/885317.jpg",
+        "position": 218
+    },
+    {
+        "id": 910353,
+        "title": "Shot Caller",
+        "rating": "7.7",
+        "year": 2015,
+        "budget": 1522407,
+        "gross": 6113523,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/910353.jpg",
+        "position": 219
+    },
+    {
+        "id": 505851,
+        "title": "Edge of Tomorrow",
+        "rating": "7.9",
+        "year": 2014,
+        "budget": 9018559,
+        "gross": 6236623,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/505851.jpg",
+        "position": 220
+    },
+    {
+        "id": 463694,
+        "title": "Tangshan da dizhen",
+        "rating": "8.0",
+        "year": 2010,
+        "budget": 9466570,
+        "gross": 1691161,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/463694.jpg",
+        "position": 221
+    },
+    {
+        "id": 7724,
+        "title": "Летят журавли",
+        "rating": "8.3",
+        "year": 1957,
+        "budget": 2535526,
+        "gross": 8236893,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/7724.jpg",
+        "position": 222
+    },
+    {
+        "id": 8366,
+        "title": "The Thing",
+        "rating": "7.9",
+        "year": 1982,
+        "budget": 5442035,
+        "gross": 8910882,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/8366.jpg",
+        "position": 223
+    },
+    {
+        "id": 276762,
+        "title": "Harry Potter and the Deathly Hallows - Part 1",
+        "rating": "7.9",
+        "year": 2010,
+        "budget": 5278675,
+        "gross": 7397301,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/276762.jpg",
+        "position": 224
+    },
+    {
+        "id": 3793,
+        "title": "Constantine",
+        "rating": "7.9",
+        "year": 2005,
+        "budget": 8878284,
+        "gross": 2454213,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/3793.jpg",
+        "position": 225
+    },
+    {
+        "id": 571896,
+        "title": "A Dog's Purpose",
+        "rating": "8.1",
+        "year": 2017,
+        "budget": 2015052,
+        "gross": 2394134,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/571896.jpg",
+        "position": 226
+    },
+    {
+        "id": 527,
+        "title": "Groundhog Day",
+        "rating": "8.1",
+        "year": 1993,
+        "budget": 1125525,
+        "gross": 1319336,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/527.jpg",
+        "position": 227
+    },
+    {
+        "id": 43970,
+        "title": "Сталкер",
+        "rating": "8.1",
+        "year": 1979,
+        "budget": 1705595,
+        "gross": 2383106,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/43970.jpg",
+        "position": 228
+    },
+    {
+        "id": 664,
+        "title": "The Family Man",
+        "rating": "7.8",
+        "year": 2000,
+        "budget": 7217464,
+        "gross": 7963025,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/664.jpg",
+        "position": 229
+    },
+    {
+        "id": 5928,
+        "title": "Home Alone 2: Lost in New York",
+        "rating": "8.0",
+        "year": 1992,
+        "budget": 7059281,
+        "gross": 2374077,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5928.jpg",
+        "position": 230
+    },
+    {
+        "id": 880,
+        "title": "What Women Want",
+        "rating": "7.8",
+        "year": 2000,
+        "budget": 800818,
+        "gross": 598021,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/880.jpg",
+        "position": 231
+    },
+    {
+        "id": 4871,
+        "title": "Scent of a Woman",
+        "rating": "8.4",
+        "year": 1992,
+        "budget": 9175466,
+        "gross": 1538660,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4871.jpg",
+        "position": 232
+    },
+    {
+        "id": 840821,
+        "title": "Puss in Boots: The Last Wish",
+        "rating": "8.1",
+        "year": 2022,
+        "budget": 7668590,
+        "gross": 675473,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/840821.jpg",
+        "position": 233
+    },
+    {
+        "id": 439,
+        "title": "Cidade de Deus",
+        "rating": "8.0",
+        "year": 2002,
+        "budget": 3886308,
+        "gross": 7596805,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/439.jpg",
+        "position": 234
+    },
+    {
+        "id": 959365,
+        "title": "Contratiempo",
+        "rating": "7.9",
+        "year": 2016,
+        "budget": 7279633,
+        "gross": 671709,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/959365.jpg",
+        "position": 235
+    },
+    {
+        "id": 335,
+        "title": "Memento",
+        "rating": "7.9",
+        "year": 2000,
+        "budget": 8423299,
+        "gross": 2962066,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/335.jpg",
+        "position": 236
+    },
+    {
+        "id": 395,
+        "title": "The Sixth Sense",
+        "rating": "8.2",
+        "year": 1999,
+        "budget": 9235828,
+        "gross": 3448321,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/395.jpg",
+        "position": 237
+    },
+    {
+        "id": 418,
+        "title": "Full Metal Jacket",
+        "rating": "8.0",
+        "year": 1987,
+        "budget": 3087673,
+        "gross": 1497744,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/418.jpg",
+        "position": 238
+    },
+    {
+        "id": 6877,
+        "title": "The Terminal",
+        "rating": "8.1",
+        "year": 2004,
+        "budget": 9981294,
+        "gross": 2606838,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/6877.jpg",
+        "position": 239
+    },
+    {
+        "id": 368937,
+        "title": "Приключения Шерлока Холмса и доктора Ватсона: Охота на тигра",
+        "rating": "8.4",
+        "year": 1980,
+        "budget": 5805216,
+        "gross": 8037507,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/368937.jpg",
+        "position": 240
+    },
+    {
+        "id": 40955,
+        "title": "Приходи на меня посмотреть",
+        "rating": "8.1",
+        "year": 2000,
+        "budget": 6960800,
+        "gross": 6250504,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/40955.jpg",
+        "position": 241
+    },
+    {
+        "id": 839818,
+        "title": "Экипаж",
+        "rating": "7.7",
+        "year": 2016,
+        "budget": 17924,
+        "gross": 5059194,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/839818.jpg",
+        "position": 242
+    },
+    {
+        "id": 4948870,
+        "title": "La Tresse",
+        "rating": "8.1",
+        "year": 2023,
+        "budget": 951421,
+        "gross": 9259930,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/4948870.jpg",
+        "position": 243
+    },
+    {
+        "id": 47015,
+        "title": "Kill Bill: Vol. 2",
+        "rating": "7.6",
+        "year": 2004,
+        "budget": 4872148,
+        "gross": 6016598,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/47015.jpg",
+        "position": 244
+    },
+    {
+        "id": 14288,
+        "title": "Wasabi",
+        "rating": "7.8",
+        "year": 2001,
+        "budget": 7737647,
+        "gross": 7535,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/14288.jpg",
+        "position": 245
+    },
+    {
+        "id": 49684,
+        "title": "Howl no Ugoku Shiro",
+        "rating": "8.3",
+        "year": 2004,
+        "budget": 382809,
+        "gross": 6643776,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/49684.jpg",
+        "position": 246
+    },
+    {
+        "id": 442568,
+        "title": "Warrior",
+        "rating": "8.0",
+        "year": 2011,
+        "budget": 9969683,
+        "gross": 5584071,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/442568.jpg",
+        "position": 247
+    },
+    {
+        "id": 5059,
+        "title": "Meet Joe Black",
+        "rating": "8.1",
+        "year": 1998,
+        "budget": 4982889,
+        "gross": 3246336,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5059.jpg",
+        "position": 248
+    },
+    {
+        "id": 45463,
+        "title": "Человек с бульвара Капуцинов",
+        "rating": "8.1",
+        "year": 1987,
+        "budget": 6620597,
+        "gross": 3401091,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45463.jpg",
+        "position": 249
+    },
+    {
+        "id": 875,
+        "title": "A Walk to Remember",
+        "rating": "7.9",
+        "year": 2002,
+        "budget": 3398936,
+        "gross": 8324086,
+        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/875.jpg",
+        "position": 250
+    }
+]
