@@ -2450,16 +2450,6 @@
         "position": 245
     },
     {
-        "id": 49684,
-        "title": "Howl no Ugoku Shiro",
-        "rating": "8.3",
-        "year": 2004,
-        "budget": 382809,
-        "gross": 6643776,
-        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/49684.jpg",
-        "position": 246
-    },
-    {
         "id": 442568,
         "title": "Warrior",
         "rating": "8.0",
@@ -2467,36 +2457,6 @@
         "budget": 9969683,
         "gross": 5584071,
         "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/442568.jpg",
-        "position": 247
-    },
-    {
-        "id": 5059,
-        "title": "Meet Joe Black",
-        "rating": "8.1",
-        "year": 1998,
-        "budget": 4982889,
-        "gross": 3246336,
-        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/5059.jpg",
-        "position": 248
-    },
-    {
-        "id": 45463,
-        "title": "Человек с бульвара Капуцинов",
-        "rating": "8.1",
-        "year": 1987,
-        "budget": 6620597,
-        "gross": 3401091,
-        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/45463.jpg",
-        "position": 249
-    },
-    {
-        "id": 875,
-        "title": "A Walk to Remember",
-        "rating": "7.9",
-        "year": 2002,
-        "budget": 3398936,
-        "gross": 8324086,
-        "poster": "https://kinopoiskapiunofficial.tech/images/posters/kp/875.jpg",
-        "position": 250
+        "position": 246
     }
 ]

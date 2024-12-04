@@ -1,6 +1,7 @@
 const express = require('express');
 const { readall } = require('./routes/readall');
 const { read } = require('./routes/read');
+const { filmDelete } = require('./routes/delete');
 const router = express.Router();
 
 router.get('/readall', readall);
@@ -15,8 +16,6 @@ router.post('/update', (req, res) => {
     res.send('update');
 });
 
-router.post('/delete', (req, res) => {
-    res.send('delete');
-});
+router.post('/delete', filmDelete);
 
 module.exports = { router };

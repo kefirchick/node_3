@@ -1,7 +1,4 @@
 const fs = require('fs/promises');
-
-const PATH_TOP250 = "top250.json"
-
 async function read(req, res, next) {
     if (!isIdValid(req.body.id)) {
         next({ status: 400, message: 'Not A Valid Id' });
