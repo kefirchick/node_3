@@ -5,7 +5,10 @@ async function create(req, res, next) {
 
     for (const key in req.body) {
         if (!modelValidation[key]?.(req.body[key])) {
-            return next({ status: 400, message: `Not A Valid Property: ${key}` });
+            return next({
+                status: 400,
+                message: `Not A Valid Property: ${key}`,
+            });
         }
 
         film[key] = req.body[key];

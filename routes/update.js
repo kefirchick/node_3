@@ -13,13 +13,9 @@ async function update(req, res, next) {
 
     const pos = getFilmPos(req.top250, req.body.id);
 
-    
-
     if (pos === -1) {
         return next({ status: 404, message: "No Such Id" });
     }
-
-    console.log(pos); // -1
 
     const film = req.top250[pos];
     req.top250.splice(pos, 1);
