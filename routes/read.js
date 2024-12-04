@@ -1,4 +1,6 @@
 const fs = require('fs/promises');
+const { isIdValid } = require('../helper')
+
 async function read(req, res, next) {
     if (!isIdValid(req.body.id)) {
         next({ status: 400, message: 'Not A Valid Id' });
@@ -13,10 +15,6 @@ async function read(req, res, next) {
     }
 
     res.json(film);
-}
-
-function isIdValid(id) {
-    return Number.isInteger(id) && id > 0;
 }
 
 module.exports = { read }

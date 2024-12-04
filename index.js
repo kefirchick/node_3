@@ -1,24 +1,13 @@
 const express = require('express');
-const fs = require('fs/promises');
 const { router } = require('./router');
+const { readTop250 } = require('./helper.js');
 
 const PORT = 3000;
-const PATH_TOP250 = "top250.json"
 
 const app = express();
 
-async function readTop250(path) {
-    try {
-        const top250String = await fs.readFile(path);
-
-        return JSON.parse(top250String);
-    } catch (err) {
-        throw new Error(`File reading error: ${err.message}\n${err.stack}`);
-    }
-}
-
 async function runServer() {
-    const top250 = await readTop250(PATH_TOP250);
+    const top250 = await readTop250();
     
     app.use(express.json());
 
