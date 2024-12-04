@@ -1,20 +1,17 @@
-const fs = require('fs/promises');
-const { isIdValid } = require('../helper')
+const { isIdValid, getFilmPos } = require('../helper')
 
 async function read(req, res, next) {
     if (!isIdValid(req.body.id)) {
-        next({ status: 400, message: 'Not A Valid Id' });
+        return next({ status: 400, message: 'Not A Valid Id' });
     }
 
-    const film = req.top250.find((film) => {
-        return film.id === req.body.id;
-    })
+    const pos = getFilmPos(req.top250, req.body.id);
 
-    if (!film) {
-        next({ status: 404, message: 'No Such Id' });
+    if (pos === -1) {
+        return next({ status: 404, message: 'No Such Id' });
     }
 
-    res.json(film);
+    res.json(req.top250[pos]);
 }
 
 module.exports = { read }

@@ -30,8 +30,6 @@ function isYearValid(year) {
     return Number.isInteger(year) && year > 1895 && year <= thisYear;
 }
 
-
-
 async function readTop250() {
     try {
         const top250String = await fs.readFile(PATH_TOP250);
@@ -58,10 +56,19 @@ function mapPositions(top250) {
     });
 }
 
+function getFilmPos(top250, id) {
+    const pos = top250.findIndex((film) => {
+        return film.id === id;
+    })
+
+    return pos;
+}
+
 module.exports = {
     modelValidation,
     readTop250,
     writeTop250,
     mapPositions,
-    isIdValid
+    isIdValid,
+    getFilmPos
 }
