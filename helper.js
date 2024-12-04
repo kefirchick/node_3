@@ -2,6 +2,36 @@ const fs = require('fs/promises');
 
 const PATH_TOP250 = "top250.json"
 
+const modelValidation = {
+    title: isStringValid,
+    rating: isStringValid,
+    year: isYearValid,
+    budget: isNumberValid,
+    gross: isNumberValid,
+    poster: isStringValid,
+    position: isNumberValid,
+}
+
+function isIdValid(id) {
+    return id && (typeof id === 'string' || typeof id === 'number');
+}
+
+function isNumberValid(num) {
+    return Number.isInteger(num) && num > 0;
+}
+
+function isStringValid(str) {
+    return str && typeof str === 'string';
+}
+
+function isYearValid(year) {
+    const thisYear = new Date().getFullYear();
+
+    return Number.isInteger(year) && year > 1895 && year <= thisYear;
+}
+
+
+
 async function readTop250() {
     try {
         const top250String = await fs.readFile(PATH_TOP250);
@@ -28,11 +58,8 @@ function mapPositions(top250) {
     });
 }
 
-function isIdValid(id) {
-    return Number.isInteger(id) && id > 0;
-}
-
 module.exports = {
+    modelValidation,
     readTop250,
     writeTop250,
     mapPositions,
