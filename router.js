@@ -1,12 +1,11 @@
 const express = require('express');
-const { readall } = require('./routes/readall')
+const { readall } = require('./routes/readall');
+const { read } = require('./routes/read');
 const router = express.Router();
 
 router.get('/readall', readall);
 
-router.get('/read', (req, res) => {
-    res.send('read');
-});
+router.get('/read', read);
 
 router.post('/create', (req, res) => {
     res.send('create');
