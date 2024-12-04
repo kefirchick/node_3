@@ -1,9 +1,8 @@
 const express = require('express');
+const { readall } = require('./routes/readall')
 const router = express.Router();
 
-router.get('/readall', (req, res) => {
-    res.send('readall');
-});
+router.get('/readall', readall);
 
 router.get('/read', (req, res) => {
     res.send('read');
