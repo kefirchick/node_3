@@ -6,9 +6,9 @@ async function readall(req, res, next) {
     try {
         const top250String = await fs.readFile(PATH_TOP250);
         const top250JSON = JSON.parse(top250String);
-        res.send(top250JSON);
+        res.json(top250JSON);
     } catch (err) {
-        next (err);
+        next(err);
     }
 }
 

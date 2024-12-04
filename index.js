@@ -9,11 +9,12 @@ app.use(express.json());
 app.use('/api/films/', router);
 
 app.use((req, res, next) => {
-    next({status: 404, message: 'Not Found'});
+    next({ status: 404, message: 'Not Found' });
 });
 
 app.use((err, req, res, next) => {
-    res.status(err.status).json({error: err.message});
+    res.status(err.status ?? 500);
+    res.json({ error: err.message });
 })
 
 app.listen(PORT, () => {
